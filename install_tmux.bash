@@ -82,7 +82,7 @@ CURRENT_DIR="$(pwd)"
 if [[ $DEPS == "true" ]]
 then
   echo "Installing depedencies for building tmux..."
-  sudo apt-get install bison byacc -y
+  sudo apt-get install libncurses-dev libevent-dev bison byacc -y
 fi
 
 # Checks if tmux directory already exists
