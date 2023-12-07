@@ -161,7 +161,7 @@ then
 
     ./autogen.sh
     ./configure && make
-    # sudo make install # Still not brave enough to make this step...
+    sudo make install # Still not brave enough to make this step...
 
     echo -e $GREEN"Successfully installed tmux, ENJOY!:)\n"$NOFORMAT
 fi
