@@ -1,0 +1,1 @@
+- selective pane synchronization [ref1](https://superuser.com/questions/1581259/how-to-select-some-panes-and-sync-them-with-tmux/1581260#1581260) [ref2](https://github.com/rollerd/paneblocker)
